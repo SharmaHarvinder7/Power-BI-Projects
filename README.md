@@ -1,3 +1,3 @@
-# Power-BI-Sales-insights-Project
+# Power-BI-Sales-Project
 This is Power BI sales_insight Project
-It Contains Key_Insights, Profit_Analysis, Performance_Insights.
+Hospitality_Dashboard
